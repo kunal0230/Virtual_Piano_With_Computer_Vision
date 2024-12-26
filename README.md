@@ -8,7 +8,7 @@ This project is a **Virtual Piano** application built using **Computer Vision** 
 
 ### Demo
 
-[Click here to watch the demo video](virtual_piano_2.mov)
+[Click here to watch the demo video](https://www.youtube.com/shorts/ZdxvdxJ5CQM)
 
 ## Features
 
