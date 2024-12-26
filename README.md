@@ -7,7 +7,9 @@ This project is a **Virtual Piano** application built using **Computer Vision** 
 
 
 ### Demo
-![Demo](virtual piano_2.mov)
+
+[Click here to watch the demo video](virtual_piano_2.mov)
+
 ## Features
 
 - **Hand Tracking**: Detects fingers using Mediapipe and maps their movement to musical notes.
